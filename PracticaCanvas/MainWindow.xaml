@@ -11,5 +11,7 @@
         <Button Canvas.Right="0" Canvas.Top="0">Boton Dos</Button>
         <Button Canvas.Bottom="0" Canvas.Left="0">Boton Tres</Button>
         <Button Canvas.Bottom="0" Canvas.Right="0">Boton Cuatro</Button>
+        <Rectangle Fill="Coral" Height="50" Width="50" Canvas.Top="100" Canvas.Left="100" Panel.ZIndex="4"></Rectangle>
+        <Rectangle Fill="Black" Height="50" Width="50" Canvas.Top="120" Canvas.Left="120" Panel.ZIndex="2"></Rectangle>
     </Canvas>
 </Window>
